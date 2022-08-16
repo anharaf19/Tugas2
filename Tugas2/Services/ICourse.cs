@@ -1,4 +1,4 @@
-﻿using Tugas2APIProvider.Models;
+﻿using Tugas2.Models;
 
 namespace Tugas2.Services
 {
